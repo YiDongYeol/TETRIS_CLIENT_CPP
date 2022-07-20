@@ -15,7 +15,7 @@
 
 <br/>
   
-![Main_Menu]()
+![Main_Menu](https://github.com/YiDongYeol/TETRIS_CLIENT_CPP/blob/main/capture/main_menu.png)
 ###### 초기 메뉴
 
 <br/>
