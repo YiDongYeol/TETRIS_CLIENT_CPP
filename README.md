@@ -8,13 +8,13 @@
 
 <br/>
   
-![Server_Arch]()
-###### 서버 구조
+![Client_Arch]()
+###### 클라이언트 구조
 
 <br/>
   
-![Server_Screen]()
-###### 서버 구동 화면
+![Main_Menu]()
+###### 초기 메뉴
 
 <br/>
 
